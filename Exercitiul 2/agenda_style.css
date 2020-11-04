@@ -1,0 +1,41 @@
+body{ background-color: #ffcce6;}
+h1.nume {color: #ff0066;}
+h2.sectiuni {color: #000000;}
+p {color: #000000; }
+	
+table {background-color: #FFEBCD;}
+ul {background-color: #FFEBCD;}
+	
+table, tr, td, ul {border:2px solid black;}
+tr:hover {background-color: #d9b3ff}
+	
+h1.nume {font-family: "Verdana";
+    font-style : italic;
+		font-size  : 100 px;}
+P {font-family:"Arial";
+	   font-size: 18px;}
+	
+ img.profil {border: 2px solid black;
+        border-radius: 12px;
+        width:400px;
+        display:block;
+        padding:10px;
+        margin:left;
+        opacity: 0.80;}		
+		
+a.linkCat {font-style: italic;
+           font-size:24px;}
+		   
+#logoCat {border: 3px green;
+          border-radius: 160px;
+		  width: 150px;
+		  display: block;
+		  margin: auto;
+		  opacity:0.8;
+         }
+		 
+#TitluCat {font-family: "Arial";
+           font-style:italic;
+           font-size: 100px;
+           color: blue:
+          }		   
